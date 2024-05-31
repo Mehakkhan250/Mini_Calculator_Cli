@@ -1,0 +1,19 @@
+{
+  "name": "@mehakkhan250/5.mini_calculator_cli",
+  "version": "1.0.0",
+  "description": "This is  mini_calculator_cli",
+  "main": "index.js",
+  "type": "module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MEHAK KHAN",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
